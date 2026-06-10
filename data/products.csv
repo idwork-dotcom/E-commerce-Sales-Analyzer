@@ -1,0 +1,151 @@
+product_id,product_name,category,cost,price,sku
+PROD-001,Eco-Cotton Unisex Hoodie,Apparel,31.66,50.95,APP-01-50
+PROD-002,Casual Linen Button-Down,Apparel,17.06,28.99,APP-02-28
+PROD-003,Tailored Chino Pants,Apparel,33.04,70.99,APP-03-70
+PROD-004,Merino Wool Crewneck,Apparel,29.85,47.99,APP-04-47
+PROD-005,High-Waist Denim Jeans,Apparel,16.09,30.99,APP-05-30
+PROD-006,Waterproof Trail Jacket,Apparel,28.77,58.0,APP-06-58
+PROD-007,Seamless Athletic Leggings,Apparel,28.16,49.0,APP-07-49
+PROD-008,Classic Leather Belt,Apparel,18.29,38.99,APP-08-38
+PROD-009,Bamboo Pajama Set,Apparel,33.83,60.99,APP-09-60
+PROD-010,Activewear Running Shorts,Apparel,15.97,32.99,APP-10-32
+PROD-011,Ribbed Knit Beanie,Apparel,11.43,18.95,APP-11-18
+PROD-012,Canvas Everyday Tote Bag,Apparel,30.34,63.0,APP-12-63
+PROD-013,Suede Chelsea Boots,Apparel,25.0,41.95,APP-13-41
+PROD-014,Packable Puffer Vest,Apparel,10.92,19.0,APP-14-19
+PROD-015,Organic Cotton Crew Socks (3-pack),Apparel,30.89,65.0,APP-15-65
+PROD-016,Breathable Mesh Sneakers,Apparel,15.11,25.0,APP-16-25
+PROD-017,Vintage Graphic Tee,Apparel,16.43,28.99,APP-17-28
+PROD-018,Flowy Summer Sundress,Apparel,39.65,83.95,APP-18-83
+PROD-019,Structured Office Blazer,Apparel,18.29,35.95,APP-19-35
+PROD-020,Cozy Flannel Shirt,Apparel,14.02,25.0,APP-20-25
+PROD-021,Premium Silk Scarf,Apparel,17.88,39.0,APP-21-39
+PROD-022,Lightweight Windbreaker,Apparel,10.64,21.0,APP-22-21
+PROD-023,Thermal Base Layer Set,Apparel,34.98,58.95,APP-23-58
+PROD-024,Casual Slip-On Loafers,Apparel,17.99,39.0,APP-24-39
+PROD-025,Fleece Quarter-Zip Pull,Apparel,28.61,57.99,APP-25-57
+PROD-026,Wireless ANC Earbuds,Electronics Accessories,26.03,36.95,ELC-01-36
+PROD-027,MagSafe Compatible Power Bank,Electronics Accessories,38.08,54.0,ELC-02-54
+PROD-028,USB-C Multi-Port Hub,Electronics Accessories,71.35,109.0,ELC-03-109
+PROD-029,Ergonomic Wireless Mouse,Electronics Accessories,44.95,79.0,ELC-04-79
+PROD-030,Mechanical Gaming Keyboard,Electronics Accessories,42.12,62.99,ELC-05-62
+PROD-031,Dual-Device Wireless Charger,Electronics Accessories,62.15,100.0,ELC-06-100
+PROD-032,Premium Laptop Sleeve (14-inch),Electronics Accessories,50.92,89.95,ELC-07-89
+PROD-033,Flexible Desk Tripod with Ring Light,Electronics Accessories,35.34,63.99,ELC-08-63
+PROD-034,HD Webcam with Privacy Cover,Electronics Accessories,45.67,65.99,ELC-09-65
+PROD-035,Noise-Isolating In-Ear Headphones,Electronics Accessories,70.28,102.99,ELC-10-102
+PROD-036,Adjustable Tablet Stand,Electronics Accessories,65.45,102.99,ELC-11-102
+PROD-037,Waterproof Portable Bluetooth Speaker,Electronics Accessories,36.93,60.95,ELC-12-60
+PROD-038,Smart Fitness Tracker Band,Electronics Accessories,47.04,83.99,ELC-13-83
+PROD-039,Anti-Blue Light Screen Protector,Electronics Accessories,57.62,83.0,ELC-14-83
+PROD-040,Braided Nylon USB-C Cable (6ft),Electronics Accessories,62.56,106.95,ELC-15-106
+PROD-041,Leather AirTag Keychain Case,Electronics Accessories,17.81,27.95,ELC-16-27
+PROD-042,Hard Shell Travel Tech Organizer,Electronics Accessories,10.23,17.0,ELC-17-17
+PROD-043,Universal Travel Plug Adapter,Electronics Accessories,28.44,45.99,ELC-18-45
+PROD-044,RGB Desk Mouse Pad (Extra Large),Electronics Accessories,45.54,66.0,ELC-19-66
+PROD-045,Wireless Presentation Clicker,Electronics Accessories,30.89,51.0,ELC-20-51
+PROD-046,Car Vent Magnetic Phone Mount,Electronics Accessories,23.92,36.99,ELC-21-36
+PROD-047,Clip-On Lapel Microphone,Electronics Accessories,47.76,82.0,ELC-22-82
+PROD-048,Silicone Cable Organizer Straps,Electronics Accessories,74.29,121.95,ELC-23-121
+PROD-049,Bluetooth Keyboard for Tablets,Electronics Accessories,11.36,19.95,ELC-24-19
+PROD-050,Mini USB Desk Fan,Electronics Accessories,26.76,40.0,ELC-25-40
+PROD-051,Ceramic Soy Scented Candle,Home Decor,57.08,105.95,DEC-01-105
+PROD-052,Minimalist Floating Wall Shelves,Home Decor,49.88,124.0,DEC-02-124
+PROD-053,Woven Macrame Plant Hanger,Home Decor,47.12,88.95,DEC-03-88
+PROD-054,Textured Boho Throw Pillow Cover,Home Decor,57.08,109.0,DEC-04-109
+PROD-055,Abstract Canvas Wall Art,Home Decor,52.98,110.99,DEC-05-110
+PROD-056,Modern Amber Glass Vase,Home Decor,56.09,131.0,DEC-06-131
+PROD-057,Handwoven Seagrass Basket Set,Home Decor,16.06,32.0,DEC-07-32
+PROD-058,Geometric Ceramic Table Lamp,Home Decor,40.74,86.0,DEC-08-86
+PROD-059,Faux Eucalyptus Potted Plant,Home Decor,29.83,58.99,DEC-09-58
+PROD-060,Soft Cotton Waffle Throw Blanket,Home Decor,23.59,51.99,DEC-10-51
+PROD-061,Minimalist Metal Desk Organizer,Home Decor,37.36,67.0,DEC-11-67
+PROD-062,Stained Glass Sun Catcher,Home Decor,39.71,77.99,DEC-12-77
+PROD-063,Velvet Accent Cushion,Home Decor,52.28,96.99,DEC-13-96
+PROD-064,Brass Hanging Photo Frame,Home Decor,20.32,43.0,DEC-14-43
+PROD-065,Rustic Wooden Serving Tray,Home Decor,12.28,30.0,DEC-15-30
+PROD-066,Abstract Pattern Area Rug,Home Decor,36.69,71.95,DEC-16-71
+PROD-067,Dried Pampas Grass Bundle,Home Decor,49.41,95.99,DEC-17-95
+PROD-068,Modern Wall Clock (12-inch),Home Decor,41.24,83.95,DEC-18-83
+PROD-069,Marble Coaster Set of 4,Home Decor,30.69,71.0,DEC-19-71
+PROD-070,Aromatic Essential Oil Diffuser,Home Decor,40.94,91.99,DEC-20-91
+PROD-071,Sleek Matte Black Candle Wick Trimmer,Home Decor,27.14,54.99,DEC-21-54
+PROD-072,Chunky Knit Floor Pouf,Home Decor,18.68,35.95,DEC-22-35
+PROD-073,Decorative Ceramic Incense Holder,Home Decor,12.71,24.95,DEC-23-24
+PROD-074,Framed Botanical Art Prints,Home Decor,18.74,45.95,DEC-24-45
+PROD-075,Metal Wire Magazine Rack,Home Decor,49.44,118.99,DEC-25-118
+PROD-076,Hydrating Hyaluronic Acid Serum,Beauty,2.66,7.99,BEA-01-7
+PROD-077,Vitamin C Brightening Facial Oil,Beauty,14.6,42.99,BEA-02-42
+PROD-078,Gentle Oat Cleansing Balm,Beauty,4.16,9.99,BEA-03-9
+PROD-079,Niacinamide Pore-Refining Toner,Beauty,13.24,37.99,BEA-04-37
+PROD-080,Mineral Broad Spectrum SPF 30,Beauty,6.93,20.95,BEA-05-20
+PROD-081,Ultra-Nourishing Shea Butter Lip Balm,Beauty,14.04,38.95,BEA-06-38
+PROD-082,Rosewater Soothing Face Mist,Beauty,7.5,22.0,BEA-07-22
+PROD-083,Exfoliating Bamboo Face Scrub,Beauty,10.6,25.99,BEA-08-25
+PROD-084,Clay Detoxifying Mask,Beauty,5.86,17.0,BEA-09-17
+PROD-085,Anti-Aging Retinol Night Cream,Beauty,11.56,23.95,BEA-10-23
+PROD-086,Organic Argan Hair Treatment Oil,Beauty,2.74,7.0,BEA-11-7
+PROD-087,Caffeine Under-Eye Cream,Beauty,13.95,34.99,BEA-12-34
+PROD-088,Hydrogel Collagen Eye Patches,Beauty,14.49,29.99,BEA-13-29
+PROD-089,Gentle Foaming Daily Cleanser,Beauty,2.89,5.99,BEA-14-5
+PROD-090,Calming Chamomile Body Wash,Beauty,7.25,21.0,BEA-15-21
+PROD-091,Vanilla Bean Hydrating Body Lotion,Beauty,5.2,13.0,BEA-16-13
+PROD-092,Tea Tree Spot Treatment Gel,Beauty,3.07,8.0,BEA-17-8
+PROD-093,Natural Deodorant Stick (Lavender),Beauty,8.8,25.99,BEA-18-25
+PROD-094,Silicone Facial Cleansing Brush,Beauty,10.71,24.95,BEA-19-24
+PROD-095,Guasha Facial Massage Stone,Beauty,7.15,18.95,BEA-20-18
+PROD-096,Rose Quartz Roller,Beauty,7.94,22.99,BEA-21-22
+PROD-097,Biodegradable Cotton Swabs Pack,Beauty,2.12,6.0,BEA-22-6
+PROD-098,Moisturizing Hand Cream Set,Beauty,14.95,30.99,BEA-23-30
+PROD-099,Clarifying Charcoal Shampoo,Beauty,8.58,17.95,BEA-24-17
+PROD-100,Coconut Milk Hair Conditioner,Beauty,13.45,38.95,BEA-25-38
+PROD-101,High-Density TPE Yoga Mat,Fitness,44.92,66.0,FIT-01-66
+PROD-102,Adjustable Dumbbell Set (10-25 lbs),Fitness,88.87,137.0,FIT-02-137
+PROD-103,Fabric Resistance Bands (Set of 3),Fitness,70.54,111.0,FIT-03-111
+PROD-104,Insulated Stainless Steel Water Bottle,Fitness,46.43,72.99,FIT-04-72
+PROD-105,High-Speed Jump Rope,Fitness,42.77,71.0,FIT-05-71
+PROD-106,Ab Roller Wheel with Knee Pad,Fitness,73.09,103.0,FIT-06-103
+PROD-107,Massage Lacrosse Ball for Myofascial,Fitness,37.12,53.0,FIT-07-53
+PROD-108,Deep Tissue Foam Roller,Fitness,81.59,114.95,FIT-08-114
+PROD-109,Pilates Exercise Ball,Fitness,41.37,68.99,FIT-09-68
+PROD-110,Weighted Wrist & Ankle Weights,Fitness,24.69,35.95,FIT-10-35
+PROD-111,Liquid Chalk for Grip,Fitness,19.63,27.99,FIT-11-27
+PROD-112,Gym Chalk Bag with Belt,Fitness,81.9,115.0,FIT-12-115
+PROD-113,Microfiber Quick-Dry Towel Pack,Fitness,61.39,97.0,FIT-13-97
+PROD-114,Under-Desk Walking Pad,Fitness,16.02,21.0,FIT-14-21
+PROD-115,Ergonomic Hand Gripper Strengthener,Fitness,109.91,166.95,FIT-15-166
+PROD-116,Push-Up Bars with Foam Grips,Fitness,76.16,103.99,FIT-16-103
+PROD-117,Yoga Block Duo with Strap,Fitness,19.39,27.99,FIT-17-27
+PROD-118,Reflective Running Vest,Fitness,109.39,150.99,FIT-18-150
+PROD-119,Breathable Workout Gym Gloves,Fitness,85.03,123.0,FIT-19-123
+PROD-120,Running Phone Armband Sleeve,Fitness,107.83,158.0,FIT-20-158
+PROD-121,Adjustable Kettlebell (5-15 lbs),Fitness,93.7,156.99,FIT-21-156
+PROD-122,Portable Suspension Training Kit,Fitness,105.78,178.99,FIT-22-178
+PROD-123,Massage Gun with 4 Attachments,Fitness,107.55,141.0,FIT-23-141
+PROD-124,Exercise Balance Disc Cushion,Fitness,112.07,180.95,FIT-24-180
+PROD-125,Waterproof Swim Goggles,Fitness,99.23,162.99,FIT-25-162
+PROD-126,A5 Hardcover Dotted Journal,Stationery,3.4,6.99,STA-01-6
+PROD-127,Dual Brush Pen Set (12-Pack),Stationery,4.44,7.95,STA-02-7
+PROD-128,Gel Ink Fineliner Pens (0.5mm),Stationery,3.0,5.95,STA-03-5
+PROD-129,Aesthetic Desk Pad Blotter,Stationery,4.15,8.99,STA-04-8
+PROD-130,Gold Metal Paperclips (Set of 100),Stationery,3.01,5.95,STA-05-5
+PROD-131,Weekly Planner Pad (Undated),Stationery,3.95,7.95,STA-06-7
+PROD-132,Self-Adhesive Sticky Notes (Pastel),Stationery,4.16,8.0,STA-07-8
+PROD-133,Handcrafted Brass Bookmark,Stationery,9.83,18.99,STA-08-18
+PROD-134,Washi Tape Set (10 Rolls),Stationery,2.04,3.99,STA-09-3
+PROD-135,Refillable Fountain Pen,Stationery,6.23,13.99,STA-10-13
+PROD-136,Premium Writing Ink (30ml),Stationery,1.98,4.0,STA-11-4
+PROD-137,Grid Index Cards Pack,Stationery,8.08,15.0,STA-12-15
+PROD-138,Minimalist Scissors & Stapler Set,Stationery,2.04,3.99,STA-13-3
+PROD-139,Desktop Document Tray (Wood),Stationery,3.29,6.99,STA-14-6
+PROD-140,Leather Pencil Pouch,Stationery,5.68,12.0,STA-15-12
+PROD-141,Calligraphy Starter Kit,Stationery,7.47,15.0,STA-16-15
+PROD-142,Erasable Highlighters (6-Pack),Stationery,2.77,5.0,STA-17-5
+PROD-143,Customizable Wax Seal Stamp Kit,Stationery,9.29,19.0,STA-18-19
+PROD-144,Perforated Notepad (Letter Size),Stationery,8.63,17.95,STA-19-17
+PROD-145,Expanding Accordion File Folder,Stationery,5.56,10.95,STA-20-10
+PROD-146,Cork Bulletin Board (12x12),Stationery,4.62,8.99,STA-21-8
+PROD-147,Sketchbook for Drawing (9x12),Stationery,2.73,5.95,STA-22-5
+PROD-148,Dual-Tip Acrylic Paint Markers,Stationery,7.1,15.0,STA-23-15
+PROD-149,Decorative Gift Wrapping Paper,Stationery,6.12,11.99,STA-24-11
+PROD-150,Magnetic Whiteboard Eraser,Stationery,3.73,7.0,STA-25-7

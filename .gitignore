@@ -1,0 +1,22 @@
+# Power BI Desktop gitignore
+*.user.config
+*.tmp
+*.abf
+*.backup
+.pbi/
+*.log
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python files (if any)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+venv/
+env/

@@ -1,0 +1,6 @@
+channel_id,channel_name,platform_fee_pct
+CHAN-1,Shopify,0.029
+CHAN-2,Amazon,0.15
+CHAN-3,Etsy,0.065
+CHAN-4,WooCommerce,0.0
+CHAN-5,Manual Order,0.0

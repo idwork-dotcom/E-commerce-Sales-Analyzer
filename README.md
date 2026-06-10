@@ -29,15 +29,7 @@ The analysis is designed as an internal, decision-support dashboard rather than 
 * `.gitignore` -> Git ignore configuration.
 
 ## Dashboard Preview
-
-### Unit Economics Overview
-![Unit Economics Overview](screenshots/unit_economics_overview.png)
-
-### Category Profitability Diagnosis
-![Category Profitability Diagnosis](screenshots/category_profitability.jpg)
-
-### Customer Profitability Analysis
-![Customer Profitability Analysis](screenshots/customer_profitability.png)
+*(Dashboard screenshots will be added here)*
 
 ## Notes
 * CAC values are understated due to dataset limitations.
